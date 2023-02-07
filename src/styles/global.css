@@ -1,0 +1,15 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   }
+
+ body {
+   font-family: "Inter", "Helvetica", "sans-serif";
+   background: black;
+   color: white;
+ }
+
+ html {
+   font-size: 62.5%;
+ }
