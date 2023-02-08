@@ -1,21 +1,27 @@
 import React from 'react';
-import imagelist from '../images.json';
+
+import useGetImages from '../hooks/useGetImages';
 
 const CardsList = () => {
-	return (
-    <p> HOLI </p>
-//     <div class="designs-cards-cointainer">
-//       <div class="designs-flex-container">
-//         {imagelist.map(image => (
-//           <div class="individual-card-container">
-//               <p>{image.name}</p>
-//               <img src='src/assets/numbers.png' alt={image.name} />
-//           </div>
-//         ))}
-//       </div>
-//     </div>
+  const images = useGetImages();
+  
+  return (
+    <div>
+      {images && images.length > 0 ? (
+        images.map(image => (
+          <div key={image.name}>
+            <p>Name: {image.name}</p>
+            <p>Path: {image.path}</p>
+            <img src={image.path} alt="image" style={{ width: 40, height: 40 }} />
 
-	);
-}
+          </div>
+
+        ))
+      ) : (
+        <p>No images found.</p>
+      )}
+    </div>
+  );
+};
 
 export default CardsList;

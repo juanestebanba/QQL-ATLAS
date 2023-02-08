@@ -1,14 +1,19 @@
 import { useEffect, useState } from 'react';
-import '../images.json';
 
 const useGetImages = () => {
   const [images, setImages] = useState([]);
 
   useEffect(() => {
-    fetch('images.json')
-      .then(response => response.json())
-      .then(json => setImages(json))
-      .catch(error => console.error(error));
+		const getImages = async () => {
+			try {
+				const response = await fetch('src/images.json');
+				const data = await response.json();
+				setImages(data);
+			} catch (error) {
+				throw new Error('Failed to fetch images');
+			}
+		};
+		getImages();
   }, []);
 
   return images;
@@ -16,6 +21,31 @@ const useGetImages = () => {
 
 export default useGetImages;
 
+
+
+
+// Codigo inicial --------------------------------------
+
+// import { useEffect, useState } from 'react';
+// import '../images.json';
+
+// const useGetImages = () => {
+//  const [images, setImages] = useState([]);
+
+//  useEffect(() => {
+//    fetch('images.json')
+//      .then(response => response.json())
+//      .then(json => setImages(json))
+//      .catch(error => console.error(error));
+//  }, []);
+
+//  return images;
+//};
+
+//export default useGetImages;
+
+
+// --------------------------------------
 
 // Me estoy basando en el código del Yard store dle ejercicio de Platzi, en el hook "useGetProducts":
 

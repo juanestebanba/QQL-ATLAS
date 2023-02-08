@@ -3,6 +3,8 @@ import Layout from '../containers/Layout';
 import Home from '../pages/Home';
 import CardsList from '../components/CardsList';
 import CardDetail from '../components/CardDetail';
+import AppContext from '../context/AppContext';
+
 import NotFound from '../pages/NotFound';
 import '../styles/global.css';
 
