@@ -1,0 +1,22 @@
+[    
+  {
+    "name": "image1",
+    "path": "src/assets/letters.png"
+  },
+  {      
+    "name": "image2",  
+    "path": "src/assets/letters.png"
+  },
+  {
+    "name": "image3",
+    "path": "src/assets/letters.png"
+  },
+  {
+    "name": "image4",
+    "path": "src/assets/numbers.png"
+  },
+  {
+    "name": "image5",
+    "path": "src/assets/objects.png"
+  }
+]

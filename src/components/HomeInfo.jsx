@@ -22,21 +22,21 @@ const HomeInfo = () => {
           <Link to="/letters">
             <p>Letters</p>
             <img src='src/assets/letters.png' alt="letters"  />
-            </Link>
+          </Link>
         </div>
 
         <div className="col-lg-4">
           <Link to="/numbers">
             <p>Numbers</p>
             <img src='src/assets/numbers.png' alt="letters"  />
-            </Link>
+          </Link>
         </div>
 
         <div className="col-lg-4">
           <Link to="/objects">
             <p>Objects</p>
             <img src='src/assets/objects.png' alt="letters"  />
-            </Link>
+          </Link>
         </div>
       </div>
     
