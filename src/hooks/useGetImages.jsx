@@ -1,3 +1,8 @@
+// Read this to undestando context:
+
+// https://beta.reactjs.org/learn/passing-data-deeply-with-context
+
+
 import { useEffect, useState } from 'react';
 
 const useGetImages = () => {

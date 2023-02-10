@@ -21,21 +21,21 @@ const HomeInfo = () => {
         <div className="col-lg-4">
           <Link to="/letters">
             <p>Letters</p>
-            <img src='src/assets/letters.png' alt="letters"  />
+            <img src='src/assets/letters/letter_U_optimized.png' alt="Letters"  />
           </Link>
         </div>
 
         <div className="col-lg-4">
           <Link to="/numbers">
             <p>Numbers</p>
-            <img src='src/assets/numbers.png' alt="letters"  />
+            <img src='src/assets/numbers/number_7_optimized.png' alt="Numbers"  />
           </Link>
         </div>
 
         <div className="col-lg-4">
           <Link to="/objects">
             <p>Objects</p>
-            <img src='src/assets/objects.png' alt="letters"  />
+            <img src='src/assets/objects/object_wave_optimized.png' alt="Objects and Landscapes"  />
           </Link>
         </div>
       </div>

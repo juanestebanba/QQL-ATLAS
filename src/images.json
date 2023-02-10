@@ -1,22 +1,217 @@
 [    
   {
-    "name": "image1",
-    "path": "src/assets/letters.png"
+    "name": "Letter A",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
   },
   {      
-    "name": "image2",  
-    "path": "src/assets/letters.png"
+    "name": "Letter B",
+    "category": "letters",
+    "path": "src/assets/letters/letter_b_optimized.png"
   },
   {
-    "name": "image3",
-    "path": "src/assets/letters.png"
+    "name": "Letter C",
+    "category": "letters",
+    "path": "src/assets/letters/letter_c_optimized.png"
   },
   {
-    "name": "image4",
-    "path": "src/assets/numbers.png"
+    "name": "Letter D",
+    "category": "letters",
+    "path": "src/assets/letters/letter_d_2_optimized.png"
   },
   {
-    "name": "image5",
-    "path": "src/assets/objects.png"
+    "name": "Letter E",
+    "category": "letters",
+    "path": "src/assets/letters/letter_E_optimized.png"
+  },
+  {
+    "name": "Letter F",
+    "category": "letters",
+    "path": "src/assets/letters/letter_F_2_optimized.png"
+  },
+  {
+    "name": "Letter G",
+    "category": "letters",
+    "path": "src/assets/letters/letter_G_2_optimized.png"
+  },
+  {
+    "name": "Letter H",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
+  },
+  {
+    "name": "Letter I",
+    "category": "letters",
+    "path": "src/assets/letters/letter_I_optimized.png"
+  },
+  {
+    "name": "Letter J",
+    "category": "letters",
+    "path": "src/assets/letters/letter_j_optimized.png"
+  },
+  {
+    "name": "Letter K",
+    "category": "letters",
+    "path": "src/assets/letters/letter_k_optimized.png"
+  },
+  {
+    "name": "Letter L",
+    "category": "letters",
+    "path": "src/assets/letters/letter_L_optimized.png"
+  },
+  {
+    "name": "Letter M",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
+  },
+  {
+    "name": "Letter N",
+    "category": "letters",
+    "path": "src/assets/letters/letter_n_optimized.png"
+  },
+  {
+    "name": "Letter O",
+    "category": "letters",
+    "path": "src/assets/letters/letter_o_optimized.png"
+  },
+  {
+    "name": "Letter P",
+    "category": "letters",
+    "path": "src/assets/letters/letter_P_optimized.png"
+  },
+  {
+    "name": "Letter Q",
+    "category": "letters",
+    "path": "src/assets/letters/letter_q_optimized.png"
+  },
+  {
+    "name": "Letter R",
+    "category": "letters",
+    "path": "src/assets/letters/letter_r_optimized.png"
+  },
+  {
+    "name": "Letter S",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
+  },
+  {
+    "name": "Letter T",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
+  },
+  {
+    "name": "Letter U",
+    "category": "letters",
+    "path": "src/assets/letters/letter_U_optimized.png"
+  },
+  {
+    "name": "Letter V",
+    "category": "letters",
+    "path": "src/assets/letters/letter_v_optimized.png"
+  },
+  {
+    "name": "Letter W",
+    "category": "letters",
+    "path": "src/assets/letters/letter_W_optimized.png"
+  },
+  {
+    "name": "Letter X",
+    "category": "letters",
+    "path": "src/assets/letters/letter_place_holder.png"
+  },
+  {
+    "name": "Letter Y",
+    "category": "letters",
+    "path": "src/assets/letters/letter_Y_optimized.png"
+  },
+  {
+    "name": "Letter Z",
+    "category": "letters",
+    "path": "src/assets/letters/letter_z_optimized.png"
+  },
+ {
+    "name": "Number 0",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_0_optimized.png"
+  },
+  {
+    "name": "Number 1",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_1_optimized.png"
+  },
+  {      
+    "name": "Number 2",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_2_optimized.png"
+  },
+  {
+    "name": "Number 3",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_3_optimized.png"
+  },
+  {
+    "name": "Number 4",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_place_holder.png"
+  },
+  {
+    "name": "Number 5",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_5_optimized.png"
+  },
+  {
+    "name": "Number 6",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_6_optimized.png"
+  },
+  {
+    "name": "Number 7",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_7_optimized.png"
+  },
+  {
+    "name": "Number 8",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_8_optimized.png"
+  },
+  {
+    "name": "Number 9",
+    "category": "numbers",
+    "path": "src/assets/numbers/number_9_optimized.png"
+  },
+  {
+    "name": "Wave",
+    "category": "objects",
+    "path": "src/assets/objects/object_wave_optimized.png"
+  },
+  {      
+    "name": "Avocado",
+    "category": "objects",
+    "path": "src/assets/objects/object_avocado_optimized.png"
+  },
+  {
+    "name": "Aku Aku (Wooden mask)",
+    "category": "objects",
+    "path": "src/assets/objects/object_aku_aku_optimized.png"
+  },
+  {
+    "name": "Heart",
+    "category": "objects",
+    "path": "src/assets/objects/object_heart_optimized.png"
+  },
+  {
+    "name": "Red blood cells",
+    "category": "objects",
+    "path": "src/assets/objects/object_redblood_cells_optimized.png"
+  },
+  {
+    "name": "Desert dune",
+    "category": "objects",
+    "path": "src/assets/objects/object_dessert_dune_optimized.png"
+  },
+  {
+    "name": "Thumbs Up",
+    "category": "objects",
+    "path": "src/assets/objects/object_thumbsup_optimized.png"
   }
 ]
