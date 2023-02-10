@@ -2,6 +2,7 @@
 // https://beta.reactjs.org/learn/passing-data-deeply-with-context
 
 import React from 'react';
+import { Link } from'react-router-dom';
 import useGetImages from '../hooks/useGetImages';
 import '../styles/CardsList.scss';
 
@@ -17,9 +18,11 @@ const CardsList = ( {category}) => {
           filteredImages.map(image => (
             <div className="design-card" key={image.name}>
               <h5 className="card-title"> {image.name}</h5>
-              <div className="design-card-image" >
-                <img src={image.path} alt="image" />
-              </div>
+
+                <Link to={`/letters/${image.slug}`} className="design-card-image" >
+                  <img src={image.path} alt="image" />
+                </Link>
+            
             </div>
   
           ))
