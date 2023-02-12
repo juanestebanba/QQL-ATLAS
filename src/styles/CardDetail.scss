@@ -1,0 +1,21 @@
+.individual-card-flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.individual-image-title {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 4.5rem;
+}
+.individual-image {
+  //width: 520px;
+  //height: 730px;
+  max-width: 100%;
+  max-height: 82vh;
+  min-height: 500px;
+
+}
