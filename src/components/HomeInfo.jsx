@@ -9,11 +9,13 @@ const HomeInfo = () => {
       <div className="banner">
         <h1 className="banner-title">QQL Atlas</h1>
         <p className="banner-description">
-          QQL is a collaborative experiment in generative art by Tyler Hobbs and Dandelion Wist Mané.
+          <a href="https://qql.art/" className="external-link" target="_blank">QQL</a> is a collaborative experiment in generative art by Tyler Hobbs and Dandelion Wist.
         </p>
 
+        <br></br>
+
         <p className="banner-description">
-          This gallery is a tribute to these artists and their work, by curating and displaying cool   outputs in different visual categories of the QQL Algorithm.
+          This gallery is a tribute to their work, curating and showcasing the algorithm’s captivating outputs into different visual categories. Explore the QQL Atlas:
         </p>
       </div>
 

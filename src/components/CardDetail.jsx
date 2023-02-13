@@ -13,10 +13,7 @@ const CardDetail = () => {
 	return (
     <div className="individual-card-detail">
       <h3 className="individual-image-title">{individualImage.name}</h3>
-      
       <div className="individual-card-flex-container">
-      
-
       <img className="individual-image" src={individualImage.path} alt="image" />
       </div>
     </div>

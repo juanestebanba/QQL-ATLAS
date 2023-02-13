@@ -1,21 +1,20 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom'; 
 import CardsList from '../components/CardsList';
+import CardDetail from '../components/CardDetail';
 import BackButton from '../components/BackButton';
 import '../styles/CardsList.scss';
 import '../styles/Categories.scss';
 import '../styles/Buttons.scss';
 
-const Objects = () => {
+const ImageDetail = () => {
 
 	return (
-    <div className="objects-main-container">
+    <div className="individual-image-main-container">
       <BackButton />
-      <h1 className="category-title">Objects</h1>
-			<CardsList category="objects" />
-      <BackButton />
+			<CardDetail />
 		</div>
 	);
 }
 
-export default Objects;
+export default ImageDetail;
