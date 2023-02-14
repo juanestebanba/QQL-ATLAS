@@ -9,37 +9,37 @@
     "name": "Letter B",
     "category": "letters",
     "slug": "letter-b",
-    "path": "/src/assets/letters/letter_b_optimized.png"
+    "path": "/src/assets/letters/letter_b_original.webp"
   },
   {
     "name": "Letter C",
     "category": "letters",
     "slug": "letter-c",
-    "path": "/src/assets/letters/letter_c_optimized.png"
+    "path": "/src/assets/letters/letter_c_original.webp"
   },
   {
     "name": "Letter D",
     "category": "letters",
     "slug": "letter-d",
-    "path": "/src/assets/letters/letter_d_2_optimized.png"
+    "path": "/src/assets/letters/letter_d_original.webp"
   },
   {
     "name": "Letter E",
     "category": "letters",
     "slug": "letter-e",
-    "path": "/src/assets/letters/letter_E_optimized.png"
+    "path": "/src/assets/letters/letter_E_original.webp"
   },
   {
     "name": "Letter F",
     "category": "letters",
     "slug": "letter-f",
-    "path": "/src/assets/letters/letter_F_2_optimized.png"
+    "path": "/src/assets/letters/letter_F_original.webp"
   },
   {
     "name": "Letter G",
     "category": "letters",
     "slug": "letter-g",
-    "path": "/src/assets/letters/letter_G_2_optimized.png"
+    "path": "/src/assets/letters/letter_G_original.webp"
   },
   {
     "name": "Letter H",
@@ -51,25 +51,25 @@
     "name": "Letter I",
     "category": "letters",
     "slug": "letter-i",
-    "path": "/src/assets/letters/letter_I_optimized.png"
+    "path": "/src/assets/letters/letter_I_original.webp"
   },
   {
     "name": "Letter J",
     "category": "letters",
     "slug": "letter-j",
-    "path": "/src/assets/letters/letter_j_optimized.png"
+    "path": "/src/assets/letters/letter_J_original.webp"
   },
   {
     "name": "Letter K",
     "category": "letters",
     "slug": "letter-k",
-    "path": "/src/assets/letters/letter_k_optimized.png"
+    "path": "/src/assets/letters/letter_k_original.webp"
   },
   {
     "name": "Letter L",
     "category": "letters",
     "slug": "letter-l",
-    "path": "/src/assets/letters/letter_L_optimized.png"
+    "path": "/src/assets/letters/letter_L_original.webp"
   },
   {
     "name": "Letter M",
@@ -81,31 +81,31 @@
     "name": "Letter N",
     "category": "letters",
     "slug": "letter-n",
-    "path": "/src/assets/letters/letter_n_optimized.png"
+    "path": "/src/assets/letters/letter_n_original.webp"
   },
   {
     "name": "Letter O",
     "category": "letters",
     "slug": "letter-o",
-    "path": "/src/assets/letters/letter_o_optimized.png"
+    "path": "/src/assets/letters/letter_o_original.webp"
   },
   {
     "name": "Letter P",
     "category": "letters",
     "slug": "letter-p",
-    "path": "/src/assets/letters/letter_P_optimized.png"
+    "path": "/src/assets/letters/letter_P_original.webp"
   },
   {
     "name": "Letter Q",
     "category": "letters",
     "slug": "letter-q",
-    "path": "/src/assets/letters/letter_q_optimized.png"
+    "path": "/src/assets/letters/letter_q_original.webp"
   },
   {
     "name": "Letter R",
     "category": "letters",
     "slug": "letter-r",
-    "path": "/src/assets/letters/letter_r_optimized.png"
+    "path": "/src/assets/letters/letter_r_original.webp"
   },
   {
     "name": "Letter S",
@@ -123,19 +123,19 @@
     "name": "Letter U",
     "category": "letters",
     "slug": "letter-u",
-    "path": "/src/assets/letters/letter_U_optimized.png"
+    "path": "/src/assets/letters/letter_U_original.webp"
   },
   {
     "name": "Letter V",
     "category": "letters",
     "slug": "letter-v",
-    "path": "/src/assets/letters/letter_v_optimized.png"
+    "path": "/src/assets/letters/letter_v_original.webp"
   },
   {
     "name": "Letter W",
     "category": "letters",
     "slug": "letter-w",
-    "path": "/src/assets/letters/letter_W_optimized.png"
+    "path": "/src/assets/letters/letter_W_original.webp"
   },
   {
     "name": "Letter X",
@@ -147,37 +147,37 @@
     "name": "Letter Y",
     "category": "letters",
     "slug": "letter-y",
-    "path": "/src/assets/letters/letter_Y_optimized.png"
+    "path": "/src/assets/letters/letter_Y_original.webp"
   },
   {
     "name": "Letter Z",
     "category": "letters",
     "slug": "letter-z",
-    "path": "/src/assets/letters/letter_z_optimized.png"
+    "path": "/src/assets/letters/letter_z_original.webp"
   },
  {
     "name": "Number 0",
     "category": "numbers",
     "slug": "number-0",
-    "path": "/src/assets/numbers/number_0_optimized.png"
+    "path": "/src/assets/numbers/number_0_original.webp"
   },
   {
     "name": "Number 1",
     "category": "numbers",
     "slug": "number-1",
-    "path": "/src/assets/numbers/number_1_optimized.png"
+    "path": "/src/assets/numbers/number_1_original.webp"
   },
   {      
     "name": "Number 2",
     "category": "numbers",
     "slug": "number-2",
-    "path": "/src/assets/numbers/number_2_optimized.png"
+    "path": "/src/assets/numbers/number_2_original.webp"
   },
   {
     "name": "Number 3",
     "category": "numbers",
     "slug": "number-3",
-    "path": "/src/assets/numbers/number_3_optimized.png"
+    "path": "/src/assets/numbers/number_3_original.webp"
   },
   {
     "name": "Number 4",
@@ -189,72 +189,78 @@
     "name": "Number 5",
     "category": "numbers",
     "slug": "number-5",
-    "path": "/src/assets/numbers/number_5_optimized.png"
+    "path": "/src/assets/numbers/number_5_original.webp"
   },
   {
     "name": "Number 6",
     "category": "numbers",
     "slug": "number-6",
-    "path": "/src/assets/numbers/number_6_optimized.png"
+    "path": "/src/assets/numbers/number_6_original.webp"
   },
   {
     "name": "Number 7",
     "category": "numbers",
     "slug": "number-7",
-    "path": "/src/assets/numbers/number_7_optimized.png"
+    "path": "/src/assets/numbers/number_7_original.webp"
   },
   {
     "name": "Number 8",
     "category": "numbers",
     "slug": "number-8",
-    "path": "/src/assets/numbers/number_8_optimized.png"
+    "path": "/src/assets/numbers/number_8_original.webp"
   },
   {
     "name": "Number 9",
     "category": "numbers",
     "slug": "number-9",
-    "path": "/src/assets/numbers/number_9_optimized.png"
+    "path": "/src/assets/numbers/number_9_original.webp"
   },
   {
     "name": "Wave",
     "category": "objects",
     "slug": "object-wave",
-    "path": "/src/assets/objects/object_wave_optimized.png"
+    "path": "/src/assets/objects/object_wave_original.webp"
   },
   {      
     "name": "Avocado",
     "category": "objects",
     "slug": "object-avocado",
-    "path": "/src/assets/objects/object_avocado_optimized.png"
+    "path": "/src/assets/objects/object_avocado_original.webp"
   },
   {
     "name": "Aku Aku (Wooden mask)",
     "category": "objects",
     "slug": "object-aku-aku",
-    "path": "/src/assets/objects/object_aku_aku_optimized.png"
+    "path": "/src/assets/objects/object_aku_aku_original.webp"
   },
   {
     "name": "Heart",
     "category": "objects",
     "slug": "object-heart",
-    "path": "/src/assets/objects/object_heart_optimized.png"
+    "path": "/src/assets/objects/object_heart_original.webp"
   },
   {
     "name": "Red blood cells",
     "category": "objects",
     "slug": "object-cells",
-    "path": "/src/assets/objects/object_redblood_cells_optimized.png"
+    "path": "/src/assets/objects/object_red_blood_cells_original.webp"
   },
   {
     "name": "Desert dune",
     "category": "objects",
     "slug": "object-dunes",
-    "path": "/src/assets/objects/object_dessert_dune_optimized.png"
+    "path": "/src/assets/objects/object_desert_dune_original.webp"
   },
   {
     "name": "Thumbs Up",
     "category": "objects",
     "slug": "object-thumbsup",
-    "path": "/src/assets/objects/object_thumbsup_optimized.png"
+    "path": "/src/assets/objects/object_thumbsup_original.webp"
+  },
+  {
+    "name": "Boot",
+    "category": "objects",
+    "slug": "object-boot",
+    "path": "/src/assets/objects/object_boot_original.webp"
   }
 ]
